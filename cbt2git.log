@@ -1,0 +1,9 @@
+2023-04-03 01:33:11.875474 - Initialized conversion of CBT631
+2023-04-03 01:33:11.933338 - Received CBT.V504.FILE631.PDS from FILE631.XMI 
+2023-04-03 01:33:11.936136 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE631.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:33:11.937265 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE631.PDS, moved to PDS/$$NOTE1
+2023-04-03 01:33:11.938341 - Found $DOCINST.txt (text/plain) in CBT.V504.FILE631.PDS, moved to PDS/$DOCINST
+2023-04-03 01:33:11.939424 - Found @FILE631.txt (text/plain) in CBT.V504.FILE631.PDS, moved to PDS/@FILE631
+2023-04-03 01:33:11.940670 - Found DB2SRCHW.txt (text/plain) in CBT.V504.FILE631.PDS, moved to PDS/DB2SRCHW
+2023-04-03 01:33:11.941737 - Found SRCH.rexx (text/plain) in CBT.V504.FILE631.PDS, moved to PDS/SRCH
+2023-04-03 01:33:11.942893 - Found STEMSRCH.txt (text/plain) in CBT.V504.FILE631.PDS, moved to PDS/STEMSRCH
